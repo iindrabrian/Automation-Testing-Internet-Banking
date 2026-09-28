@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_SKN RTGS Realtime Bifast</name>
+   <tag></tag>
+   <elementGuidId>48cdb1cc-5fba-48f1-8f1c-ee2272885352</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>table.inherit > tbody > tr > td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//fieldset[@id='fieldset_style_1']/table/tbody/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;SKN RTGS Realtime Bifast&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>8bf99f48-f8c3-4a28-b992-18e969e887cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> SKN
+ RTGS
+ Realtime
+ Bifast
+</value>
+      <webElementGuid>1fbaa16b-851b-4115-99ed-a9ec0f2acbd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;transfer_third&quot;)/fieldset[@id=&quot;fieldset_style_1&quot;]/table[@class=&quot;inherit&quot;]/tbody[1]/tr[1]/td[1]</value>
+      <webElementGuid>ac737c47-894c-4f1a-a1a3-c854c2c22eb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='fieldset_style_1']/table/tbody/tr/td</value>
+      <webElementGuid>250118ed-c94e-4c85-a249-50b0bf5aaaae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Layanan Pemindahbukuan'])[1]/following::td[1]</value>
+      <webElementGuid>f6a93d5a-5a52-4176-865e-5b111c428951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekening Tujuan'])[1]/following::td[1]</value>
+      <webElementGuid>37543b04-ab68-4fe5-858b-2048f182ad61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekening Tujuan'])[2]/preceding::td[1]</value>
+      <webElementGuid>92746f7e-55a0-4e66-8ddc-c010117e1fec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Silakan tentukan nomor rekening tujuan'])[1]/preceding::td[1]</value>
+      <webElementGuid>ce2dc6d9-a79c-46e4-a1b7-04dd0f320e44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SKN']/parent::*</value>
+      <webElementGuid>27a7b916-7083-416a-bda4-f7abbd4766dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset[2]/table/tbody/tr/td</value>
+      <webElementGuid>ce1253a7-f0ec-488f-9458-4ac96cdf4f0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = ' SKN
+ RTGS
+ Realtime
+ Bifast
+' or . = ' SKN
+ RTGS
+ Realtime
+ Bifast
+')]</value>
+      <webElementGuid>f5793fa7-7081-474e-bc3d-ad803b3f76ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

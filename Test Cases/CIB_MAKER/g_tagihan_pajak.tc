@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>g_tagihan_pajak</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae25582c-0984-4a08-8e59-a2410095ed6f</testCaseGuid>
+</TestCaseEntity>

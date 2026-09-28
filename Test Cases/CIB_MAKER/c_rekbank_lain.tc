@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>c_rekbank_lain</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>724d5398-a2e2-423a-aa01-ed24282efef5</testCaseGuid>
+</TestCaseEntity>

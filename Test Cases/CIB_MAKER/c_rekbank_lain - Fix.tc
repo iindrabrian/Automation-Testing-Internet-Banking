@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>c_rekbank_lain - Fix</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8fc75881-484b-4bb5-9af8-bbbe59759c7c</testCaseGuid>
+</TestCaseEntity>

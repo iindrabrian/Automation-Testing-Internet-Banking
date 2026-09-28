@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_1401100133    14001888999    1401100_e079a9</name>
+   <tag></tag>
+   <elementGuidId>e668a312-2418-4803-a3c1-810155d2cc4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#accountNumber</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='accountNumber']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Rekening Tujuan&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>6c2359d1-a7ff-411f-a831-f0a50244d18e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>accountFromNumber</value>
+      <webElementGuid>74c04653-8c7e-4c38-8692-7594e35ea750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>accountNumber</value>
+      <webElementGuid>fbafee0a-0437-457a-a274-a89c7a2ba431</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select_one</value>
+      <webElementGuid>f7825059-7d4d-45d7-8c23-3440c915debe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    1401100133
+    14001888999
+    1401100601
+    1696207878
+    8010100017
+    01403000001
+
+
+</value>
+      <webElementGuid>c8258906-bbb7-4963-a150-1a1d75036a19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new_transfer_danabos&quot;)/fieldset[@id=&quot;fieldset_style_1&quot;]/select[@id=&quot;accountNumber&quot;]</value>
+      <webElementGuid>b392f994-c54f-4944-ade3-62626380bb24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='accountNumber']</value>
+      <webElementGuid>93b7daa3-2505-496c-9dea-374916ce72e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='fieldset_style_1']/select</value>
+      <webElementGuid>d9b2291f-c834-475e-8144-cd03ccd8d960</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekening Sumber'])[1]/following::select[1]</value>
+      <webElementGuid>c0da0670-3375-419d-b829-1ab167146594</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer Perusahaan'])[1]/following::select[1]</value>
+      <webElementGuid>92aeb68c-5113-4d7a-a2be-00566a5d58ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Silakan pilih rekening sumber yang akan didebet'])[1]/preceding::select[1]</value>
+      <webElementGuid>8d277c6b-9fbb-4461-a66c-ed73eaa63a97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekening Tujuan'])[1]/preceding::select[1]</value>
+      <webElementGuid>ef0dfa26-070b-4e9a-94d7-83bb1d2af709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/select</value>
+      <webElementGuid>6e2d7c58-53d9-47dd-baff-020062d4ff39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'accountFromNumber' and @id = 'accountNumber' and (text() = '
+    1401100133
+    14001888999
+    1401100601
+    1696207878
+    8010100017
+    01403000001
+
+
+' or . = '
+    1401100133
+    14001888999
+    1401100601
+    1696207878
+    8010100017
+    01403000001
+
+
+')]</value>
+      <webElementGuid>fad84de8-c978-4df0-9698-947ab44408ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

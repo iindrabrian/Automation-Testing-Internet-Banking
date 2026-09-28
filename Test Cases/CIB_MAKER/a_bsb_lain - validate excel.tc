@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>a_bsb_lain - validate excel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>06ae7f8c-85cb-4a1e-b14b-0ff3457e962f</testCaseGuid>
+</TestCaseEntity>

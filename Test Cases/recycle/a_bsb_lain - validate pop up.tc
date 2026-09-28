@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>a_bsb_lain - validate pop up</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b40a96eb-9e97-47d7-9ebf-615c535ccc4d</testCaseGuid>
+</TestCaseEntity>

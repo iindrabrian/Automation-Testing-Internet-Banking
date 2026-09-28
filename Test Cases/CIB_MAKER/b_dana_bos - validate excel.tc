@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>b_dana_bos - validate excel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cde921e1-8a41-4735-b1d6-369d592d0129</testCaseGuid>
+</TestCaseEntity>

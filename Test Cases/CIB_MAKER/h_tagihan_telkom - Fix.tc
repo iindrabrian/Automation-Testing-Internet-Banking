@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>h_tagihan_telkom - Fix</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>513d1b7b-112e-4f77-a715-7eaeb068c204</testCaseGuid>
+</TestCaseEntity>

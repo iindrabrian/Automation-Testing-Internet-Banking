@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>d_tagihan_umum</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>72049dde-5c5f-4cb1-b182-0e19078a1291</testCaseGuid>
+</TestCaseEntity>

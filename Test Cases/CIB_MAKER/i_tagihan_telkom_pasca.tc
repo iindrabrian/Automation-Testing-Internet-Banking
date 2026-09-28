@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>i_tagihan_telkom_pasca</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>75662374-df0c-4572-948a-28e611dfebc6</testCaseGuid>
+</TestCaseEntity>

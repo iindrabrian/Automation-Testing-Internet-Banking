@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>i_tagihan_telkom_pasca - Fix</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>22bb9aba-12ec-405e-83ef-2b90dc41f5b4</testCaseGuid>
+</TestCaseEntity>

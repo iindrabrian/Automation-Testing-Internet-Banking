@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_1    2    3    4    5    6    7</name>
+   <tag></tag>
+   <elementGuidId>2ca43238-f221-4ca7-a7e3-e686197ce2ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#view_transfer_inhouse_indexTrf</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='view_transfer_inhouse_indexTrf']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#view_transfer_inhouse_indexTrf</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>51125c83-6416-4b74-a8e5-9ef37f21ec64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>indexTrf</value>
+      <webElementGuid>a8cabc03-6b63-4206-b5e7-fc72c21fb77f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>view_transfer_inhouse_indexTrf</value>
+      <webElementGuid>751c69d0-af17-48c9-a99e-0ce134139ca2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+
+
+</value>
+      <webElementGuid>ebb8edf0-886b-4393-b869-4291c790dbe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view_transfer_inhouse_indexTrf&quot;)</value>
+      <webElementGuid>d90e1d7d-cb39-4dc7-ae4f-80b8bc2b34da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='view_transfer_inhouse_indexTrf']</value>
+      <webElementGuid>e3699764-95cb-49a3-8099-31912a917f70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pagination']/select</value>
+      <webElementGuid>e0806272-4db6-46ee-9388-4a216bb374ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rilis'])[10]/following::select[1]</value>
+      <webElementGuid>c9423dbf-942b-42cb-8802-a2d3ae7cd2d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='>>'])[1]/preceding::select[1]</value>
+      <webElementGuid>15bf521b-b039-452b-8287-ae39b89c3349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer Perusahaan yang Telah Berjalan'])[1]/preceding::select[1]</value>
+      <webElementGuid>a47d17a3-9f2c-4476-9adc-403f672e91d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>4827bf57-e9eb-4ed7-942e-d3426ffd9b7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'indexTrf' and @id = 'view_transfer_inhouse_indexTrf' and (text() = '
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+
+
+' or . = '
+    1
+    2
+    3
+    4
+    5
+    6
+    7
+
+
+')]</value>
+      <webElementGuid>a66bacf3-db56-4791-9afa-92cc036304e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

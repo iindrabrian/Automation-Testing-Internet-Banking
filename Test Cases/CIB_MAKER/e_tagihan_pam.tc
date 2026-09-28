@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>e_tagihan_pam</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c5836c1b-8f0b-4672-a1c9-57c3f82d24ae</testCaseGuid>
+</TestCaseEntity>

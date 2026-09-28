@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_1401100601    14001888999    8010100_128906</name>
+   <tag></tag>
+   <elementGuidId>5ca0bddc-07c5-4c22-8822-4b229f6f95db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#accountNumber</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='accountNumber']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'accountNumber']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Rekening Tujuan&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f0286034-0309-4ca9-a2e6-ff5f5350de43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>accountFromNumber</value>
+      <webElementGuid>1db88a44-9a60-4b3c-b8f8-64f918d0fd23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>accountNumber</value>
+      <webElementGuid>470ccb23-b971-4e91-a1c9-53104d3e5d99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select_one</value>
+      <webElementGuid>03213745-5763-41e0-bec4-a9c35fd2d5f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    1401100601
+    14001888999
+    8010100017
+    01403000001
+    1696207878
+    1401100133
+
+
+</value>
+      <webElementGuid>046ecf81-15c3-43e7-9cd0-19e8d95d2f30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new_transfer_danabos&quot;)/fieldset[@id=&quot;fieldset_style_1&quot;]/select[@id=&quot;accountNumber&quot;]</value>
+      <webElementGuid>5d341206-6afa-481c-b61c-45de9c4652d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='accountNumber']</value>
+      <webElementGuid>fa18567b-e53c-4bbd-99c0-4b8a358a6793</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//fieldset[@id='fieldset_style_1']/select</value>
+      <webElementGuid>fa9d4819-9b60-47f4-877a-998586003aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekening Sumber'])[1]/following::select[1]</value>
+      <webElementGuid>5a2b20c3-6a99-4cc9-b43d-aa6eeeacd0cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer Perusahaan'])[1]/following::select[1]</value>
+      <webElementGuid>1b1de484-9029-4c08-bb0f-272dec5594d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Silakan pilih rekening sumber yang akan didebet'])[1]/preceding::select[1]</value>
+      <webElementGuid>ae26d6cb-6aa7-4d45-94c3-946b6699d894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekening Tujuan'])[1]/preceding::select[1]</value>
+      <webElementGuid>fad07c59-fc13-43ff-b653-071ddc278177</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/select</value>
+      <webElementGuid>4e6dd6e0-41f1-4cea-ae0a-6647543699cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'accountFromNumber' and @id = 'accountNumber' and (text() = '
+    1401100601
+    14001888999
+    8010100017
+    01403000001
+    1696207878
+    1401100133
+
+
+' or . = '
+    1401100601
+    14001888999
+    8010100017
+    01403000001
+    1696207878
+    1401100133
+
+
+')]</value>
+      <webElementGuid>ce3e9b03-ffb3-462d-8b4e-ba2dead26c39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

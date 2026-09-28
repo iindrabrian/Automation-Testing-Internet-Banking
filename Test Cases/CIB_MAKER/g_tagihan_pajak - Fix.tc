@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>g_tagihan_pajak - Fix</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6e555d16-c789-407f-aac1-6da9e4b77bbf</testCaseGuid>
+</TestCaseEntity>
